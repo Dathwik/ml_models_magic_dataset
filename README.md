@@ -132,7 +132,7 @@ jupyter notebook
 ml_models_magic_dataset/
 │
 ├── magic04.data
-├── notebook.ipynb
+├── fcc_MAGIC.ipynb.ipynb
 ├── README.md
 └── requirements.txt
 ```
